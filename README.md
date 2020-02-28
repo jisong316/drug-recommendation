@@ -1,4 +1,4 @@
-# durg-recommendation  
+# Drug Recommender System
   
 __Overview__  
   
